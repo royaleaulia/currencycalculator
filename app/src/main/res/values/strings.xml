@@ -1,0 +1,16 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">Konversi Mata Uang</string>
+
+    <!-- Hint text for editable text field where the user enters the cost of service -->
+    <string name="textView">Cost of Service</string>
+
+    <string name="euroname">Euro</string>
+    <string name="usdolarname">US Dolar</string>
+    <string name="japaneseyenname">Japanese Yen</string>
+    <string name="saudiriyalname">Saudi Riyal</string>
+    <string name="button">Konversi</string>
+    <string name="input">Nilai Mata Uang</string>
+    <!-- Formatted string for the tip result  -->
+    <string name="tip_amount">Nilai Rupiah: Rp%s</string>
+</resources>
